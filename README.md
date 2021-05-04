@@ -1,2 +1,2 @@
 # ImageSegmentation using Unet
-### Task Identifying the cells' nuclei
+### Task: Identifying the cells' nuclei
